@@ -6,6 +6,8 @@ description: วิธีรับบัตรเข้าเกาะ sky tower
 
 
 
+<figure><img src=".gitbook/assets/ss20240221_125117.jpg" alt=""><figcaption><p>คุยกับ npc Smugling old man</p></figcaption></figure>
+
 | วัน      | คำตอบ     |
 | -------- | --------- |
 | จันทร์   | Twin Tail |
